@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Mi Plantilla HTML5</title>
+</head>
+<body>
+<!-- comentario presente 3 en el código fuente -->
+ <!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Plantilla de documento HTML - Ejercicio 2</title>
+</head>
+<body>
+
+  <h1>Plantilla de documento HTML5</h1>
+
+  <p>Este es el primer párrafo</p>
+
+  <p>Este es el segundo párrafo</p>
+
+  <p>Este es el tercer párrafo</p>
+
+  <p>Este es el cuarto párrafo</p>
+<!-- comentario presente en el código fuente -->
+</body>
+</html>
+  <header>
+    <h1>Plantilla de documento XHTML1.1</h1>
+  </header>
+
+  <main>
+    
+    <p>Este es un párrafo de texto normal.</p>
+  </main>
+<!-- comentario 2 presente en el código fuente -->
+  <footer>
+    <p>Pie de página</p>
+  </footer>
+
+</body>
+</html>

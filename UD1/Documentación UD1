@@ -1,0 +1,46 @@
+# Documentación UD1 Lenguajes de Marcas
+
+## Introducción a Lenguajes de marcas
+
+### Definición
+
+Un lenguaje de marcas organiza información mediante una sintaxis basada en marcas o etiquetas.
+
+### Clasificación de Lenguajes de marcas
+
+|Tipo|Uso|Ejemplos|
+|----|---|--------|
+|Presentación|Dar formato a documentos de texto|HTML, CSS|
+|Intercambio de información|Almacenar información de forma ordenada|XML, RSS|
+|Documentación|Documentar proyectos Markdown|Markdown, WikiTex, |
+
+## Instalación y configuración del entorno
+
+1. Instalamos [VS Code](https://code.visualstudio.com/)
+2. Instalamos plugins 
+  - [Markdown all in one](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
+  - [Life Preview](https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server)
+  - [Life Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+  - [XML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-xml)
+  - [HTML CSS SUPPORT](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css)
+
+|USO|IMAGEN|NOMBRE|
+|---|------|------|
+|Sirve para facilitarte la vida al escribir documentos en formato Markdown (.md), reuniendo en una sola herramienta todas las funciones que normalmente necesitarías para redactar de forma rápida y sin interrupciones.|![alt text](https://tse2.mm.bing.net/th/id/OIP.mGTxGJBftwOaqgdfINWjHwHaEj?r=0&rs=1&pid=ImgDetMain&o=7&rm=3)|Markdown All in One
+Te permite dividir la pantalla: a un lado ves tu código y al otro el documento con el formato final.|![alt text](image-2.png)|Life Preview
+Su función principal es crear un servidor local temporal en tu ordenador con una característica llamada "Live Reload" (Recarga en vivo).|![alt text](image-3.png)|Life Server
+Sirve para describir qué significan los datos.|![alt text](image-5.png)|XML
+Sirve para darte autocompletado inteligente (IntelliSense) de los nombres de clases (class) e identificadores (id) directamente mientras redactas etiquetas HTML.|![alt text](image-4.png)|HTML CSS Support
+
+3. Instalamos git
+``` bash
+sudo apt install git
+```
+
+4. Configurar repositorio git (en la carpeta principal del proyecto)
+```bash
+git init
+git add
+git commit -m "Comentario descriptivo"
+```
+5. 
