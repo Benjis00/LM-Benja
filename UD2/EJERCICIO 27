@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="es"
+<head>
+    <meta charset="UTF-8">
+    <title>Ejercicio 28</title>
+    <!-- Vinculamos el CSS externo obligatorio -->
+    <link rel="stylesheet" href="28-estilo.css">
+</head>
+<body>
+    <header>
+        <h1>Mi primera página web estructurada</h1>
+    </header>
+
+    <main>
+        <section>
+            <h2>primer párrafo de texto</h2>
+            <p>segundo párrafo de texto</p>
+            <p> Si el texto tiene mas lineas o parráfos separados, abres otro par de etiquetas de párrafo.</p>
+        </section>
+    </main>
+<!-- Pie de página -->
+    <footer>
+        <p>Derechos reservados &copy; 2026 - Módulo de Lenguaje de Marcas</p>
+    </footer>
+</body>
+</html>
+<!-- Menú de navegación situado justo después de la cabecera -->
+<nav>
+    <ul>
+        <li><a href="#">Inicio</a></li>
+        <li><a href="#">Artículos</a></li>
+        <li><a href="#">Contacto</a></li>
+        <li><a href="#">Servicios</a></li>
+    </ul>
+</nav>
+<!-- Contenido principal -->
+<main>
+    <!-- Sección con el artículo principal -->
+     <section>
+        <article>
+            <h2>Ultimas novedades en diseño web</h2>
+            <p>Aquó colocamos el primer párrafo correspondiente al correspondiente al contenido principal de la plantilla del ejercicio 29.</p>
+            <p>Recuerda que todo el texto debe ir protegido dentro de etiquetas de párrafo (&lt;p&gt;), evitando dejar texto suelto.</p>
+            </article>
+
+    

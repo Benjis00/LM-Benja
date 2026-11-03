@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Reserva de habitación</title>
+</head>
+<body>
+    <h1>Formulario de reserva</h1>
+    <form action="reserva.php" method="get"
+<fieldset>
+    <legend> Datos del solicitante </legend>
+    <p>
+        <label for="nombre">Nombre completo:</label><br>
+        <input type="text" id="nombre" name="nombre" maxlength="100" required autofocus>
+        </p>
+
+    <p
+        <label for="telefono">Teléfono de contacto:</label><br>
+        <input type="tel" id="telefono" name="telefono" maxlength="9" pattern="^[0-9]{9}$" required>
+
+</fieldset>
+

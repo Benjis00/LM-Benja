@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="es"
+<head>
+    <meta charset="utf-8">
+    <title>Validacion de usuario</title>
+</head>
+<body>
+
+    <!-- El formulario envia por GET hacia servicio.php -->
+     <form action="servicio.php" method="get">
+
+        <!-- Campo de texto: longitud máxima de 10 caracteres -->
+        <p>
+            <label for="usuario">Usuario:</label>
+            <input type="text" id="usuario" name="usuario" maxlenght="10"
+size="10" placeholder="(10 car.max)" />
+        </p>
+
+        <!-- Campo de contraseña: oculto y máximo 12 caracteres -->
+
+        <p>
+            <label for="contraseña">Contraseña</label>
+            <input type="password" id="contraseña"
+name="contraseña" maxlenght="12" size="12" />
+        </p>
+
+        <!-- Botones de acción -->
+        <p>
+            <input type="submit" value="Enviar" />
+            <input type="reset" value="Resetear" />
+        </p>
+
+    </body>
+    </html>
+
+        

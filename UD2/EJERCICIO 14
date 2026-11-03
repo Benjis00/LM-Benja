@@ -1,0 +1,18 @@
+<!DOCTYPE html>  
+<html lang="es">
+    <head>
+        <meta charset="UTF-8">
+        <title>Ejercicio 14 - Imágenes en HTML</title>
+    </head>
+    <body>
+        <h1>Ejercicio 14: Trabajo con imágenes</h1>
+
+<!-- Párrafo para la primera imagen -->
+<p>
+    Esta es la primera imagen. Está situada en el mismo directorio que el archivo HTML, y mantiene su tamaño original (sin atributos width o height)
+</p>
+<p>
+    <img src="imagen1.jpg" alt="imagen en el mismo directorio"
+</p>
+
+VCXASDW

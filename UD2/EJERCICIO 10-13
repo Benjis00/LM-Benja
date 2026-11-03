@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ejercicio 10 - Enlaces</title>
+</head>
+<body>
+
+    <h1>Enlaces de Interés - Xunta de Galicia</h1>
+
+    <ul>
+        <!-- Enlace que se abre en la misma pestaña -->
+        <li>
+            <a href="http://www.edu.xunta.gal/portal">Portal de Educación de la Xunta</a>
+        </li>
+        
+        <!-- Enlace que se abre en una nueva pestaña (target="_blank") -->
+        <li>
+            <a href="http://www.edu.xunta.es/fp" target="_blank" rel="noopener noreferrer">Formación Profesional (FP)</a>
+        </li>
+    </ul>
+
+</body>
+</html>
+
+
+
+<!D0CTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <tittle>Ejericio 10 - Enlances</tittle>
+</head>
+<body>
+
+    <h1>Enlances de Interés - Xunta de Galicia</h1>
+
+    <ul>
+        <!-- Enlance que se abre ne la misma pantalla ---->
+    </li>
+         <a href="http://www.edu.xunta.gal/portal">Portal de Educación de la Xunta</a>
+    </li>
+
+    <!-- Enlance que se abre en una nueva pestaña (target="_blank") -->
+    <li>
+        <a href="http://www.edu.xunta.es/fp" target="_blank" rel ="noopener noreferrer">Formación Profesional (FP)</a>
+    </li>
+</ul>
+
+</body>
+</html>
+
